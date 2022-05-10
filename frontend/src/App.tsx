@@ -1,9 +1,10 @@
 import React from 'react';
+import Navbar from './components/Navbar/index';
 
 function App() {
   return (
-    <h1> Página Principal</h1>
-
+    <Navbar></Navbar>
+    
   );
 }
 
