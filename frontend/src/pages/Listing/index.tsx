@@ -28,8 +28,6 @@ function Listing() {
       });
   }, [pageNumber]);
 
-  // FORMA ERRADA
-
   return (
     <>
       <Pagination></Pagination>
